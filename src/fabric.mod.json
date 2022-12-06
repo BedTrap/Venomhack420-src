@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "venomhack",
+  "version": "27.3",
+  "name": "Venomhack420",
+  "description": "The best addon for meteor client you can imagine.",
+  "authors": [
+    "tyrannus00",
+    "6mss",
+    "MouldyLasagne"
+  ],
+  "contact": {
+    "sources": "https://github.com/tyrannus00/Venomhack420/",
+    "issues": "https://discord.gg/VqRd4MJkbY"
+  },
+  "icon": "assets/venomhack/chat/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "venomhack.Venomhack420"
+    ]
+  },
+  "mixins": [
+    "venomhack.mixins.json",
+    "venomhack-meteor.mixins.json"
+  ],
+  "accessWidener": "venomhack.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": ">=0.46.0",
+    "meteor-client": ">=0.4.7"
+  },
+  "custom": {
+    "meteor-client:color": "204,0,0"
+  }
+}

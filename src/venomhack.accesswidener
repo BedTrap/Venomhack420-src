@@ -1,0 +1,13 @@
+accessWidener	v1	intermediary
+accessible	field	net/minecraft/class_2797	comp_945	Ljava/lang/String;
+mutable	field	net/minecraft/class_2797	comp_945	Ljava/lang/String;
+accessible	field	net/minecraft/class_4970	field_23159	Z
+accessible	field	net/minecraft/class_1309	field_6253	F
+accessible	method	net/minecraft/class_1309	method_6050	()V
+accessible	method	net/minecraft/class_1297	method_20233	(Lnet/minecraft/class_4050;)Z
+accessible	method	net/minecraft/class_2535	method_10759	(Lnet/minecraft/class_2596;Lnet/minecraft/class_2547;)V
+accessible	field	net/minecraft/class_1657	field_7491	Lnet/minecraft/class_2940;
+accessible	field	net/minecraft/class_1309	field_6247	Lnet/minecraft/class_2940;
+accessible	field	net/minecraft/class_761	field_4073	I
+accessible	field	net/minecraft/class_2684	field_12310	I
+accessible	method	net/minecraft/class_640	method_2970	(I)V

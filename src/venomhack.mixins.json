@@ -1,0 +1,38 @@
+{
+  "required": true,
+  "package": "venomhack.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BlockEntityRenderDispatcherMixin",
+    "BlockItemMixin",
+    "CameraMixin",
+    "ChamsMixin",
+    "ChatHudMixin",
+    "ClientPlayerEntityMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "ClientPlayNetworkHandlerMixin",
+    "EntityMixin",
+    "EntityRenderDispatcherMixin",
+    "EntityRenderMixin",
+    "GuiMerchantMixin",
+    "HeldItemRendererAccessor",
+    "InGameHudMixin",
+    "ItemEntityRendererMixin",
+    "ItemRendererMixin",
+    "LivingEntityMixin",
+    "Matrix4fMixin",
+    "MerchantScreenAccessor",
+    "MerchantScreenMixin",
+    "MouseMixin",
+    "ParticleManagerMixin",
+    "PlayerEntityMixin",
+    "SoundSystemMixin",
+    "TotemParticleMixin",
+    "Vec3dMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "Venomhack420-refmap.json"
+}
